@@ -36,3 +36,5 @@ endif
 
 set lines=50 columns=120
 
+set nobackup
+set nowritebackup
