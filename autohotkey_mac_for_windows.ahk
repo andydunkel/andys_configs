@@ -1,3 +1,5 @@
+#MaxHotkeysPerInterval 1000
+
 WheelUp::
 Send {WheelDown}
 Return
@@ -5,6 +7,7 @@ Return
 WheelDown::
 Send {WheelUp}
 Return
+
 
 ;show Desktop
 F11::
@@ -41,4 +44,6 @@ Return
 #Down::Send {Lctrl down}{End}{Lctrl up}
 #Left::Send {Home}
 #Right::Send {End}
+
+
 
