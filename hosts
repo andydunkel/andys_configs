@@ -1,0 +1,106 @@
+### BLOCKING of social sites
+
+#facebook
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 ok.facebook.com
+127.0.0.1 www.ok.facebook.com
+127.0.0.1 a.ok.facebook.com
+127.0.0.1 www.a.ok.facebook.com
+127.0.0.1 facebook.com.au
+127.0.0.1 www.facebook.com.au
+127.0.0.1 nl-nl.facebook.com
+127.0.0.1 www.nl-nl.facebook.com
+127.0.0.1 facebook.nl
+127.0.0.1 www.facebook.nl
+127.0.0.1 facebook.com.au
+127.0.0.1 www.facebook.com.au
+127.0.0.1 login.facebook.com.au
+127.0.0.1 www.login.facebook.com.au
+127.0.0.1 www-10-01-snc2.facebook.com
+127.0.0.1 www-11-01-snc2.facebook.com
+127.0.0.1 www-10-03-ash1.facebook.com
+127.0.0.1 www-12-08-ash1.facebook.com
+127.0.0.1 www-13-08-ash1.facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 login.facebook.com.nl
+127.0.0.1 www.login.facebook.com.nl
+127.0.0.1 fbcdn.net
+127.0.0.1 www.fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 ads.ak.facebook.com
+127.0.0.1 www.ads.ak.facebook.com
+127.0.0.1 static.ak.connect.facebook.co m
+127.0.0.1 www.static.ak.connect.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 de-de.facebook.com
+127.0.0.1 www.de-de.facebook.com
+127.0.0.1 facebook.de
+127.0.0.1 www.facebook.de
+
+
+# Block Facebook IPv6
+fe80::1%lo0 www.facebook.com
+fe80::1%lo0 facebook.com
+fe80::1%lo0 ok.facebook.com
+fe80::1%lo0 www.ok.facebook.com
+fe80::1%lo0 a.ok.facebook.com
+fe80::1%lo0 www.a.ok.facebook.com
+fe80::1%lo0 facebook.com.au
+fe80::1%lo0 www.facebook.com.au
+fe80::1%lo0 nl-nl.facebook.com
+fe80::1%lo0 www.nl-nl.facebook.com
+fe80::1%lo0 facebook.nl
+fe80::1%lo0 www.facebook.nl
+fe80::1%lo0 facebook.com.au
+fe80::1%lo0 www.facebook.com.au
+fe80::1%lo0 login.facebook.com.au
+fe80::1%lo0 www.login.facebook.com.au
+fe80::1%lo0 www-10-01-snc2.facebook.com
+fe80::1%lo0 www-11-01-snc2.facebook.com
+fe80::1%lo0 www-10-03-ash1.facebook.com
+fe80::1%lo0 www-12-08-ash1.facebook.com
+fe80::1%lo0 www-13-08-ash1.facebook.com
+fe80::1%lo0 static.ak.fbcdn.net
+fe80::1%lo0 www.static.ak.fbcdn.net
+fe80::1%lo0 login.facebook.com
+fe80::1%lo0 www.login.facebook.com
+fe80::1%lo0 login.facebook.com.nl
+fe80::1%lo0 www.login.facebook.com.nl
+fe80::1%lo0 fbcdn.net
+fe80::1%lo0 www.fbcdn.net
+fe80::1%lo0 fbcdn.com
+fe80::1%lo0 www.fbcdn.com
+fe80::1%lo0 ads.ak.facebook.com
+fe80::1%lo0 www.ads.ak.facebook.com
+fe80::1%lo0 static.ak.connect.facebook.co m
+fe80::1%lo0 www.static.ak.connect.facebook.com
+fe80::1%lo0 login.facebook.com
+fe80::1%lo0 www.login.facebook.com
+fe80::1%lo0 de-de.facebook.com
+fe80::1%lo0 www.de-de.facebook.com
+fe80::1%lo0 facebook.de
+fe80::1%lo0 www.facebook.de
+
+#Twitter
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 platform.twitter.com
+
+# Google
+127.0.0.1 plus.google.com
+127.0.0.1 apis.google.com
+
+#Twitter
+fe80::1%lo0 twitter.com
+fe80::1%lo0 www.twitter.com
+fe80::1%lo0 platform.twitter.com
+
+# Google
+fe80::1%lo0 plus.google.com
+fe80::1%lo0 apis.google.com
