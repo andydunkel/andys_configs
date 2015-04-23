@@ -38,6 +38,6 @@ set lines=50 columns=120
 
 set nobackup
 set nowritebackup
-
+set encoding=utf-8
 set nowrap
 set number
